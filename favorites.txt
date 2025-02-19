@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Banana
 Apple
 Orange
 Strawberry
 
+=======
+Interstealer
+The Gentleman
+Venom
+Spider-Man
+>>>>>>> movies
